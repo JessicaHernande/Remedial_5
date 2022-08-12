@@ -1,0 +1,6 @@
+D:\JESSICA\Remedial-UltimaOportunidad\Class_Dal_acceso\bin\Debug\Class_Dal_acceso.dll
+D:\JESSICA\Remedial-UltimaOportunidad\Class_Dal_acceso\bin\Debug\Class_Dal_acceso.pdb
+D:\JESSICA\Remedial-UltimaOportunidad\Class_Dal_acceso\obj\Debug\Class_Dal_acceso.csproj.AssemblyReference.cache
+D:\JESSICA\Remedial-UltimaOportunidad\Class_Dal_acceso\obj\Debug\Class_Dal_acceso.csproj.CoreCompileInputs.cache
+D:\JESSICA\Remedial-UltimaOportunidad\Class_Dal_acceso\obj\Debug\Class_Dal_acceso.dll
+D:\JESSICA\Remedial-UltimaOportunidad\Class_Dal_acceso\obj\Debug\Class_Dal_acceso.pdb

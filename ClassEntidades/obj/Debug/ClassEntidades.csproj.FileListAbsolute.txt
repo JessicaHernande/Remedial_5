@@ -1,0 +1,6 @@
+D:\JESSICA\Remedial-UltimaOportunidad\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\JESSICA\Remedial-UltimaOportunidad\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\JESSICA\Remedial-UltimaOportunidad\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+D:\JESSICA\Remedial-UltimaOportunidad\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\JESSICA\Remedial-UltimaOportunidad\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\JESSICA\Remedial-UltimaOportunidad\ClassEntidades\obj\Debug\ClassEntidades.pdb

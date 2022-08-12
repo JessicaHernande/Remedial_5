@@ -1,0 +1,11 @@
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.dll
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.pdb
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\bin\Debug\ClassEntidades.dll
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\bin\Debug\Class_Dal_acceso.dll
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\bin\Debug\ClassEntidades.pdb
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\bin\Debug\Class_Dal_acceso.pdb
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.AssemblyReference.cache
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CoreCompileInputs.cache
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CopyComplete
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.dll
+D:\JESSICA\Remedial-UltimaOportunidad\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.pdb
